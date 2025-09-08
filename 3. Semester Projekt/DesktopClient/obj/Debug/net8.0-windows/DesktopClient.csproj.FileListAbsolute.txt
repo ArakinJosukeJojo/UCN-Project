@@ -1,0 +1,174 @@
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.deps.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.runtimeconfig.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.staticwebassets.endpoints.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.exe
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.exe
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.deps.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.runtimeconfig.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.pdb
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.pdb
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.csproj.AssemblyReference.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient..resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.EditRoomInfo.resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.FindRoom.resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.MainClient.resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.ManageReservation.resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.NewRoom.resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.PickingDate.resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.RoomForm.resources
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.csproj.GenerateResource.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.AssemblyInfoInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.AssemblyInfo.cs
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.sourcelink.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopC.3DF0E902.Up2Date
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\refint\DesktopClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.pdb
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.genruntimeconfig.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\ref\DesktopClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.staticwebassets.endpoints.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.deps.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.runtimeconfig.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.exe
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.exe
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.deps.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.runtimeconfig.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DesktopClient.pdb
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\RestAPI.pdb
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.csproj.AssemblyReference.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient..resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.EditRoomInfo.resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.FindRoom.resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.MainClient.resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.ManageReservation.resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.NewRoom.resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.PickingDate.resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GUI.RoomForm.resources
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.csproj.GenerateResource.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.AssemblyInfoInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.AssemblyInfo.cs
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.sourcelink.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopC.3DF0E902.Up2Date
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\refint\DesktopClient.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.pdb
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\DesktopClient.genruntimeconfig.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DesktopClient\obj\Debug\net8.0-windows\ref\DesktopClient.dll

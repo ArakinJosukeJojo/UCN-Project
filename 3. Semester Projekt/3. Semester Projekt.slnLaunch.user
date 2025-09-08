@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Hotel Web\\Hotel Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RestAPI\\RestAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DesktopClient\\DesktopClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

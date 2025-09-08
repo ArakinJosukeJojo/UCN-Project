@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="GUI\EditRoomInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FindRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\MainClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\ManageReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\NewRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\PickingDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\RoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

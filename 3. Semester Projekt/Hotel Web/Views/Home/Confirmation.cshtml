@@ -1,0 +1,103 @@
+﻿  @model Hotel_Web.Models.Reservation
+
+@{
+	ViewData["Title"] = "Confirmation";
+}
+
+<h1>Bekræft Infomation</h1>
+
+<form asp-action="Payment" method="post">
+	<body>
+		<h4>Reservations info</h4>
+		<hr />
+		@{
+			Decimal finalPrice = 0;
+		}
+		<dl class="row">
+			<div class="form-group">
+				<span> Opholds start </span>
+				<span> : </span>
+				<span>  @Html.DisplayFor(model => model.ReservationStartDate) </span>
+			</div>
+			<div class="form-group">
+				<span> Ophold slut </span>
+				<span> : </span>
+				<span>   @Html.DisplayFor(model => model.ReservationEndDate) </span>
+			</div>
+			<div class="form-group">
+				<span> Reservations note </span>
+				<span> : </span>
+				@if (Model.ReservationNote != null)
+				{
+					<span>  @Html.DisplayFor(model => model.ReservationNote) </span>
+				}
+				else
+				{
+					<span> Ingen note </span>
+				}
+			</div>			
+			<div class="form-group">
+				@foreach (ReservationLine r in Model.ReservationLines)
+				{
+					if (@r.Amount > 0)
+					{
+						finalPrice += r.RoomType.Price * r.Amount;
+						<span> @r.RoomType.RoomTypeName </span>
+						<span> : </span>
+						<span>  @r.Amount </span>						
+					}
+				}
+			</div>
+			@{
+				finalPrice = finalPrice * (Decimal)((Model.ReservationEndDate - Model.ReservationStartDate).TotalDays);
+			}
+			<div class="form-group">				
+				<span> Pris i alt </span>
+				<span> : </span>
+				<span>  @finalPrice DKK </span>
+			</div>
+
+
+			<h4>Person info</h4>
+
+
+			<div class="form-group">
+				<span> Fornavn </span>
+				<span> : </span>
+				<span>  @Html.DisplayFor(model => model.Person.FirstName) </span>
+			</div>
+			<div class="form-group">
+				<span> Efternavn </span>
+				<span> : </span>
+				<span>   @Html.DisplayFor(model => model.Person.LastName) </span>
+			</div>
+			<div class="form-group">
+				<span> Email </span>
+				<span> : </span>
+				<span>  @Html.DisplayFor(model => model.Person.Email) </span>
+			</div>
+			<div class="form-group">
+				<span> Telefonnummer </span>
+				<span> : </span>
+				<span>  @Html.DisplayFor(model => model.Person.PhoneNo) </span>
+			</div>
+
+
+			<h4>Adress</h4>
+
+
+			<div class="form-group">
+				<span> Adresse </span>
+				<span> : </span>
+				<span>  @Html.DisplayFor(model => model.Person.Address.StreetName) </span>
+				<span>   @Html.DisplayFor(model => model.Person.Address.HouseNo) </span>
+				<span>  @Html.DisplayFor(model => model.Person.Address.Floor) </span>
+				<span>  @Html.DisplayFor(model => model.Person.Address.ZipCode) </span>
+				<span>  @Html.DisplayFor(model => model.Person.Address.Country) </span>
+			</div>
+		</dl>
+	</body>
+	<div class="form-group text-end">
+		<input type="submit" value="Til Betaling" class="btn btn-primary" style="margin:10px" />
+	</div>
+</form>

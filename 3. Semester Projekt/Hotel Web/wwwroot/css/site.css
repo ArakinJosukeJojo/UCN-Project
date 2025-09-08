@@ -1,0 +1,48 @@
+html {
+    font-size: 14px;
+    background-color: #f0f4f8; /* soft blue-gray background */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #90c6dd; /* soft blue shadow */
+}
+
+/* Set a base style for body */
+body {
+    margin-bottom: 60px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #2e3d49;
+    background-color: #d0e7e5;
+}
+
+/* Soften all link colors */
+a {
+    color: #4a90a4;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #3c7e91;
+        text-decoration: underline;
+    }
+
+/* Optional: soften navbar & footer if needed */
+.navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.footer {
+    background-color: #f7f9fb;
+    color: #6c757d;
+}

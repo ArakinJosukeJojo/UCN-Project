@@ -1,0 +1,26 @@
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\jhaag\OneDrive\Desktop\Skole\GitHub\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\jhaag\OneDrive\Desktop\Aflevering 3.semester - proggramering og teknologi\3.SemesterProjekt\3. Semester Projekt\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

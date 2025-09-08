@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\service\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\service\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\controllerlayer\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllerlayer\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\views\\home\\showavailablerooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\views\\home\\showavailablerooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\views\\home\\createreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\views\\home\\createreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\modelconversion\\reservationdtoconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\modelconversion\\reservationdtoconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3743106-D61E-4BAA-BFFC-D1DFBBB72362}|DataAccess\\DataAccess.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\dataaccess\\modellayer\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3743106-D61E-4BAA-BFFC-D1DFBBB72362}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\modellayer\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\businesslogiclayer\\reservationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\businesslogiclayer\\reservationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\restapi\\dtos\\viewmodelreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529A26A-BA4A-4A03-8E78-47EE1E8282E2}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\dtos\\viewmodelreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|c:\\users\\jhaag\\onedrive\\desktop\\aflevering 3.semester - proggramering og teknologi\\3.semesterprojekt\\3. semester projekt\\hotel web\\models\\viewmodelreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC337C-EEDE-4E96-8665-4E74B693924F}|Hotel Web\\Hotel Web.csproj|solutionrelative:hotel web\\models\\viewmodelreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\HotelBooking_TestData.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\CreateTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\dropAllTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HotelBooking_TestData.sql",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\HotelBooking_TestData.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\HotelBooking_TestData.sql",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\HotelBooking_TestData.sql",
+              "RelativeToolTip": "..\\..\\..\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\HotelBooking_TestData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T13:34:26.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateTables.sql",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\CreateTables.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\CreateTables.sql",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\CreateTables.sql",
+              "RelativeToolTip": "..\\..\\..\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\CreateTables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T13:34:24.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dropAllTables.sql",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\dropAllTables.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\dropAllTables.sql",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\dropAllTables.sql",
+              "RelativeToolTip": "..\\..\\..\\Skole\\GitHub\\3.SemesterProjekt\\3. Semester Projekt\\Test\\Scripts\\dropAllTables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T13:34:24.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowAvailableRooms.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Views\\Home\\ShowAvailableRooms.cshtml",
+              "RelativeDocumentMoniker": "Hotel Web\\Views\\Home\\ShowAvailableRooms.cshtml",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Views\\Home\\ShowAvailableRooms.cshtml",
+              "RelativeToolTip": "Hotel Web\\Views\\Home\\ShowAvailableRooms.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T11:31:35.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\ControllerLayer\\ReservationController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\ControllerLayer\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\ControllerLayer\\ReservationController.cs",
+              "RelativeToolTip": "RestAPI\\ControllerLayer\\ReservationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:43:14.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hotel Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hotel Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwNAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:40:26.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationLogic.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\BusinesslogicLayer\\ReservationLogic.cs",
+              "RelativeDocumentMoniker": "RestAPI\\BusinesslogicLayer\\ReservationLogic.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\BusinesslogicLayer\\ReservationLogic.cs",
+              "RelativeToolTip": "RestAPI\\BusinesslogicLayer\\ReservationLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:36:30.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Views\\Home\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Hotel Web\\Views\\Home\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Views\\Home\\Confirmation.cshtml",
+              "RelativeToolTip": "Hotel Web\\Views\\Home\\Confirmation.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T22:35:33.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateService.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Service\\DateService.cs",
+              "RelativeDocumentMoniker": "Hotel Web\\Service\\DateService.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Service\\DateService.cs",
+              "RelativeToolTip": "Hotel Web\\Service\\DateService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIAwwDoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:35:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationDTOConvert.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\ModelConversion\\ReservationDTOConvert.cs",
+              "RelativeDocumentMoniker": "RestAPI\\ModelConversion\\ReservationDTOConvert.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\ModelConversion\\ReservationDTOConvert.cs",
+              "RelativeToolTip": "RestAPI\\ModelConversion\\ReservationDTOConvert.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:25:36.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\DataAccess\\ModelLayer\\Reservation.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ModelLayer\\Reservation.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\DataAccess\\ModelLayer\\Reservation.cs",
+              "RelativeToolTip": "DataAccess\\ModelLayer\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:22:02.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Hotel Web\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\Address.cs",
+              "RelativeToolTip": "Hotel Web\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:15:42.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\RoomTypeDTO.cs",
+              "RelativeDocumentMoniker": "RestAPI\\DTOs\\RoomTypeDTO.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\RoomTypeDTO.cs",
+              "RelativeToolTip": "RestAPI\\DTOs\\RoomTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:14:02.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Views\\Home\\CreateReservation.cshtml",
+              "RelativeDocumentMoniker": "Hotel Web\\Views\\Home\\CreateReservation.cshtml",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Views\\Home\\CreateReservation.cshtml",
+              "RelativeToolTip": "Hotel Web\\Views\\Home\\CreateReservation.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T22:10:00.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Hotel Web\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\Person.cs",
+              "RelativeToolTip": "Hotel Web\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:05:59.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "RestAPI\\DTOs\\AddressDTO.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\AddressDTO.cs",
+              "RelativeToolTip": "RestAPI\\DTOs\\AddressDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:04:59.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "RestAPI\\DTOs\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\PersonDTO.cs",
+              "RelativeToolTip": "RestAPI\\DTOs\\PersonDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:04:46.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "RestAPI\\DTOs\\ReservationDTO.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\ReservationDTO.cs",
+              "RelativeToolTip": "RestAPI\\DTOs\\ReservationDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:03:40.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewModelReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\ViewModelReservationDTO.cs",
+              "RelativeDocumentMoniker": "RestAPI\\DTOs\\ViewModelReservationDTO.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\RestAPI\\DTOs\\ViewModelReservationDTO.cs",
+              "RelativeToolTip": "RestAPI\\DTOs\\ViewModelReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:03:36.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Hotel Web\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\Reservation.cs",
+              "RelativeToolTip": "Hotel Web\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:02:08.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "Hotel Web\\Models\\RoomType.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\RoomType.cs",
+              "RelativeToolTip": "Hotel Web\\Models\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:02:06.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewModelReservation.cs",
+              "DocumentMoniker": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\ViewModelReservation.cs",
+              "RelativeDocumentMoniker": "Hotel Web\\Models\\ViewModelReservation.cs",
+              "ToolTip": "C:\\Users\\jhaag\\OneDrive\\Desktop\\Aflevering 3.semester - proggramering og teknologi\\3.SemesterProjekt\\3. Semester Projekt\\Hotel Web\\Models\\ViewModelReservation.cs",
+              "RelativeToolTip": "Hotel Web\\Models\\ViewModelReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:02:04.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

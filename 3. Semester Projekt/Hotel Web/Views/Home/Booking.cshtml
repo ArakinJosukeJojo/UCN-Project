@@ -1,0 +1,59 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+
+<!--JavaScript alert-->
+@if (ViewData["Message"] != null)
+{
+	<div class="alert alert-info">@ViewData["Message"]</div>
+}
+
+<p>Use this page to find the date of your booking.</p>
+
+
+
+@section scripts {
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+	<script>
+		$(function() {
+		var nowDate = new Date();
+		var today = new Date(nowDate.getFullYear(), nowDate.getMonth(), nowDate.getDate(), 0, 0, 0, 0);
+		var minSpanDays = 1;
+		var minLimitDate = new Date(nowDate.getFullYear() , nowDate.getMonth(), nowDate.getDate() + minSpanDays, 0, 0, 0, 0);
+		  $('input[name="daterange"]').daterangepicker({
+			"minDate": today,
+			"startDate": today,
+			"endDate": minLimitDate,
+			opens: 'left'
+		  }, function(start, end, label) {
+			var diff = end.diff(start, 'days');
+			if (diff < minSpanDays) {
+				alert("Please select at least " + minSpanDays + " days.");
+			} else {
+				console.log("A new date selection was made: " + start.format('YYYY-MM-DD') + ' to ' + end.format('YYYY-MM-DD'));
+			}
+		  });
+		});
+	</script>
+}
+
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Search" method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input type="text" name="daterange" value="01/01/2025 - 01/15/2025" />
+			<div class="form-group">
+				<input type="submit" value="Search" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+
+@section head {
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+}
+

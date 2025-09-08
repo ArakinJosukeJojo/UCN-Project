@@ -1,0 +1,96 @@
+﻿@model Hotel_Web.Models.ViewModelReservation
+
+@{
+	ViewData["Title"] = "ShowAvailableRooms";
+}
+
+
+
+
+<h1>Tilgængelige værelser</h1>
+
+<form asp-action="CreateReservation" method="post">
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Værelsetype</th>
+				<th>Beskrivelse</th>
+				<th>Antal senge</th>
+				<th>Ledige værelser</th>
+				<th>Pris pr. nat</th>
+				<th> </th>
+				<th>Antal</th>
+			</tr>
+		</thead>
+		<tbody>
+			@for (int i = 0; i < Model.RoomTypes.Count; i++)
+			{
+				var type = Model.RoomTypes[i];
+				<tr>
+					<td>@type.RoomTypeName</td>
+					<td>@type.Description</td>
+					<td>@type.BedSpace</td>
+					<td>@type.Availableamount</td>
+					<td>@type.Price</td>
+					<td>
+						<button type="button" class="btn btn-link text-blue" data-bs-toggle="modal" data-bs-target="#roomModal-@i">
+							Læs Mere
+						</button>
+					</td>
+					<td>
+						<select name="reservation.Reservation.ReservationLines[@i].Amount" class="form-control">
+							@for (int amount = 0; amount <= type.Availableamount; amount++)
+							{
+								<option value="@amount">@amount</option>
+							}
+						</select>
+						<input type="hidden" name="reservation.Reservation.ReservationLines[@i].RoomType.RoomTypeName" value="@type.RoomTypeName" />
+						<input type="hidden" name="reservation.Reservation.ReservationLines[@i].RoomType.RoomTypeId" value="@type.RoomTypeId" />
+						<input type="hidden" name="reservation.Reservation.ReservationLines[@i].RoomType.Price" value="@type.Price" />
+					</td>
+				</tr>
+
+
+				<!-- Modal. Det er her vores popup opstår || Ikke implementeret -->
+				<div class="modal fade" id="roomModal-@i" tabindex="-1" aria-labelledby="roomModalLabel-@i" aria-hidden="true">
+					<div class="modal-dialog modal-lg modal-dialog-centered">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title" id="roomModalLabel-@i">@type.RoomTypeName</h5>
+								<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Luk"></button>
+							</div>
+							<div class="modal-body">
+								<p>@type.Description</p>
+
+								@* Example for pictures – replace with actual image logic *@
+								<div class="row">
+									<div class="col-md-4">
+										<img src="/images/rooms/@type.RoomTypeId-1.jpg" class="img-fluid rounded" alt="Billede 1">
+									</div>
+									<div class="col-md-4">
+										<img src="/images/rooms/@type.RoomTypeId-2.jpg" class="img-fluid rounded" alt="Billede 2">
+									</div>
+									<div class="col-md-4">
+										<img src="/images/rooms/@type.RoomTypeId-3.jpg" class="img-fluid rounded" alt="Billede 3">
+									</div>
+								</div>
+
+							</div>
+							<div class="modal-footer">
+								<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Luk</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			}
+		</tbody>
+	</table>
+	<!-- review 
+	<input asp-for="@Model.Reservation.ReservationStartDate" name="reservation.ReservationStartDate" type="hidden" />
+	<input asp-for="@Model.Reservation.ReservationEndDate" name="reservation.ReservationEndDate" type="hidden" />
+	<input asp-for="@Model.Reservation.PayAtLocation" name="reservation.PayAtLocation" type="hidden" />
+	<input asp-for="@Model.Reservation.ReservationNote" name="reservation.ReservationNote" type="hidden" />
+	-->
+	<button type="submit" class="btn btn-primary">Videre</button>
+</form>

@@ -1,0 +1,11 @@
+USE HotelBooking;
+SELECT * FROM Quantities;
+SELECT * FROM Prices;
+SELECT * FROM ExtraServices;
+SELECT * FROM ReservationsLines;
+SELECT * FROM Rooms;
+SELECT * FROM RoomTypes;
+SELECT * FROM Reservations;
+SELECT * FROM Persons;
+SELECT * FROM PersonAddress;
+SELECT * FROM PersonTypes;

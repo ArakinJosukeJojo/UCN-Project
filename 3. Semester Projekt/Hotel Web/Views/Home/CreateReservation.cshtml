@@ -1,0 +1,114 @@
+﻿@model Hotel_Web.Models.Reservation
+
+@{
+	ViewData["Title"] = "CreateReservation";
+}
+
+<h1>CreateReservation</h1>
+
+
+<hr />
+<form asp-action="Confirmation" method="post">
+	<div class="row">
+		<div class="col-md-6">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="form-group">
+				<label class="control-label">StartDato</label>
+				<p class="form-control-plaintext">@Model.ReservationStartDate.ToString("MM-dd-yyyy")</p>
+			</div>
+			<div class="form-group">
+				<label class="control-label">SlutDato</label>
+				<p class="form-control-plaintext">@Model.ReservationEndDate.ToString("MM-dd-yyyy")</p>
+			</div>
+			<div class="form-group">
+				<label class="control-label">Betal på stedet</label>
+				<p class="form-control-plaintext">@Model.PayAtLocation</p>
+			</div>
+			<div class="form-group">
+				<label class="control-label">Reservation Note:</label>
+				<p class="form-control-plaintext">@Model.ReservationNote</p>
+			</div>
+
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Værelsestype</th>
+						<th>Antal</th>
+					</tr>
+				</thead>
+				<tbody>
+					<!-- fix! sorter empty reservation lines ud -->
+					@foreach (var line in Model.ReservationLines)
+					{
+						<tr>
+							<td>@line.RoomType.RoomTypeName</td>
+							<td>@line.Amount</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+
+		<div class="col-md-6">
+			<h5>Person info</h5>
+			<div class="form-group">
+				<label asp-for="Person.FirstName" class="control-label">Fornavn</label>
+				<input asp-for="Person.FirstName" class="form-control" />
+				<span asp-validation-for="Person.FirstName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Person.LastName" class="control-label">Efternavn</label>
+				<input asp-for="Person.LastName" class="form-control" />
+				<span asp-validation-for="Person.LastName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Person.Email" class="control-label">Email</label>
+				<input asp-for="Person.Email" class="form-control" />
+				<span asp-validation-for="Person.Email" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Person.PhoneNo" class="control-label">Telefonnummer</label>
+				<input asp-for="Person.PhoneNo" class="form-control" />
+				<span asp-validation-for="Person.PhoneNo" class="text-danger"></span>
+			</div>
+
+			<h5> Addresse</h5>
+
+			<div class="form-group">
+				<label asp-for="Person.Address.StreetName" class="control-label">Gadenavn</label>
+				<input asp-for="Person.Address.StreetName" class="form-control" />
+				<span asp-validation-for="Person.Address.StreetName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Person.Address.HouseNo" class="control-label">Husnummer</label>
+				<input asp-for="Person.Address.HouseNo" class="form-control" />
+				<span asp-validation-for="Person.Address.HouseNo" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Person.Address.Floor" class="control-label">Etage og side</label>
+				<input asp-for="Person.Address.Floor" class="form-control" />
+				<span asp-validation-for="Person.Address.Floor" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Person.Address.ZipCode" class="control-label">Postnummer</label>
+				<input asp-for="Person.Address.ZipCode" class="form-control" />
+				<span asp-validation-for="Person.Address.ZipCode" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Person.Address.Country" class="control-label">Land</label>
+				<input asp-for="Person.Address.Country" class="form-control" />
+				<span asp-validation-for="Person.Address.Country" class="text-danger"></span>
+			</div>						
+		</div>
+	</div>
+	
+	<div class="form-group text-end">
+		<input type="submit" value="Videre" class="btn btn-primary" style="margin:10px" />
+	</div>
+</form>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
